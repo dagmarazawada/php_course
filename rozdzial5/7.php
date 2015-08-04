@@ -11,7 +11,9 @@
 </head>
 
 <body>
-    <?php kopiuj_strone("http://localhost/_kursphp/rozdzial5/6_test.html"); ?>
+    <?php //kopiuj_strone("http://localhost:8888/kursphp/rozdzial5/6_test.html"); 
+    kopiuj_strone("http://wp.pl");
+    ?>
     <p>OK</p>
 
 </body>
